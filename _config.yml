@@ -98,7 +98,7 @@ author:
   location         : "New Delhi, India"
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=mJIo6CMAAAAJ&hl=en"
   email            : alisher.abdulkhaev@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,13 +108,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alisher-ai"
+  github           : "vivek37373"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alisher-abdulkhaev" # "https://www.linkedin.com/in/alisher-abdulkhaev/"
+  linkedin         : "vivek-at" # "https://www.linkedin.com/in/vivek-thiruvettai/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
