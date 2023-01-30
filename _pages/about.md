@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I’m Vivek, a bioinformatician mostly working on distinct ncRNA types present in plants using large-scale RNA-seq data sets.
+I’m **Vivek**, a PhD student at NIPGR, New Delhi. I'm a **bioinformatician** by training with a background in bioinformatics and biotechnology, but I have just enough expertise in RNA informatics and big data. My previous research and current work are all grounded to the constant urge to developing workflows/pipelines/methodologies to identify **plant ncRNAs**.
 
-I have graduated with Bioinformatics and Biotechnology in my bachelor's and master's degrees. Currently, I'm a PhD student exploring non-coding RNAs using using a wide-range of bioinformatics approaches. 
 
-My research interests mainly focus on developing workflows/pipelines/methodologies to identify plant ncRNAs. 
