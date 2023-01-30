@@ -9,8 +9,9 @@
 locale                   : "en-US"
 title                    : "VIVEK AT"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "VIVEK AT"
 description              : &description "personal description"
+                            PhD student @ National Institute of Plant Genome Research
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
