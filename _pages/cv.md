@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+<!-- layout: archive -->
+title: "[Curriculum Vitae in pdf format](https://vivek37373.github.io/files/vivek.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,63 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-Personal Data
-======
-* Citizenship: India
-* Data of birth: 9th of February, 1992
-* Email: [alisher.abdulkhaev@gmail.com](alisher.abdulkhaev@gmail.com)
-* Webpage: [alisher-ai.github.io](https://alisher-ai.github.io)
-* Twitter: [@alisher_ai](https://twitter.com/alisher_ai)
-
-
-
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- <embed src="https://vivek37373.github.io/files/vivek.pdf" type="application/pdf"/> -->
