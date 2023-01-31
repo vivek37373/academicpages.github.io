@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+
+Personal Data
+
+Citizenship: Kyrgyzstan
+Data of birth: 9th of February, 1992
+Email: alisher.abdulkhaev@gmail.com
+Webpage: alisher-ai.github.io
+Twitter: @alisher_ai
+
+
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
