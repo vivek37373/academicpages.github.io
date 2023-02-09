@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Computational methods for annotation of plant regulatory non-coding RNAs using RNA-seq"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-10-01-Computational methods for annotation of plant regulatory non-coding RNAs using RNA-seq
+excerpt: 'Plant transcriptome encompasses numerous endogenous, regulatory non-coding RNAs (ncRNAs) that play a major biological role in regulating key physiological mechanisms. While studies have shown that ncRNAs are extremely diverse and ubiquitous, the functions of the vast majority of ncRNAs are still unknown. With ever-increasing ncRNAs under study, it is essential to identify, categorize and annotate these ncRNAs on a genome-wide scale. The use of high-throughput RNA sequencing (RNA-seq) technologies provides a broader picture of the non-coding component of transcriptome, enabling the comprehensive identification and annotation of all major ncRNAs across samples. However, the detection of known and emerging class of ncRNAs from RNA-seq data demands complex computational methods owing to their unique as well as similar characteristics. Here, we discuss major plant endogenous …'
+date: 2021/7
+venue: 'Briefings in Bioinformatics'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf](https://academic.oup.com/bib/article-abstract/22/4/bbaa322/6041165'
+citation: 'Vivek, A.T. and Kumar, S., 2021. Computational methods for annotation of plant regulatory non-coding RNAs using RNA-seq. Briefings in Bioinformatics, 22(4), p.bbaa322.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
